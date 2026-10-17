@@ -6,6 +6,7 @@ permalink: /publication/2025-01-10-ethical-llms
 excerpt: 'This study examines ethical challenges in LLM deployment, including bias mitigation and privacy concerns, proposing a framework for responsible AI integration.'
 date: 2025-01-10
 venue: 'Advances in Neural Information Processing Systems 37 (NeurIPS 2024)'
+codeurl: 'https://github.com/exaoneshare-art/ethical-llms'
 slidesurl: 'http://yourwebsite.com/files/slides-ethical-llms.pdf'
 paperurl: 'http://yourwebsite.com/files/paper-ethical-llms.pdf'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ethical-llms.bib'
